@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Медцентр",
+  "short_name": "Медцентр",
+  "description": "Демо мобильного приложения медицинского центра",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0A6CF0",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
